@@ -1,6 +1,6 @@
-# CodSoft
+# Simple Python Projects 
 
-Welcome to the CodSoft repository! This repository contains Python projects developed during my internship in Python programming. Each project demonstrates different aspects of Python programming and user interface design. Below is a brief overview of each project included in this repository.
+Welcome to this repository! This repository contains Python projects developed during my internship in Python programming. Each project demonstrates different aspects of Python programming and user interface design. Below is a brief overview of each project included in this repository.
 
 ## Projects
 
@@ -53,10 +53,10 @@ A task management application that helps users keep track of their daily tasks. 
 To run these projects locally:
 
 1. Clone this repository:
-   git clone https://github.com/JaaniCoder/CodSoft.git
+   git clone https://github.com/JaaniCoder/Simple-Python-Projects.git
 
 2. Navigate to the project directory:
-   cd CodSoft
+   cd Simple-Python-Projects
 
 3. Install the required packages (if any):
    pip install -r requirements.txt
